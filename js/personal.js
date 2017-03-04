@@ -15,7 +15,7 @@
 			height:400,
 		},800)
 	})
-	//画布视频播放
+	//画布视频播放;
 	var canvas=document.querySelector('#play canvas');
 	var context=canvas.getContext('2d');
 	var video=document.querySelector('#play video');
